@@ -5,5 +5,5 @@ Currently a Computer Science and Engineering student graduating from The Ohio St
 
 - I’m currently learning about machine learning and artificial intelligence
 - I’m currently working on applying machine learning models to improve MRI imaging at the OSU medical center in the biomedical engineering department.
-- [LinkedIn](https://www.linkedin.com/in/jacob-hatef-59052719a/)
+- [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
